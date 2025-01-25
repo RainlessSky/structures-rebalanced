@@ -1,0 +1,14 @@
+{
+"placement": {
+  "type": "minecraft:random_spread",
+  "salt": 29394823,
+  "spacing": 25,
+  "separation": 15
+},
+	"structures": [
+		{
+			"structure": "dstruct:big_mushroom",
+			"weight": 1
+		}
+	]
+}

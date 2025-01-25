@@ -1,0 +1,266 @@
+{
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/straight_1",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/straight_2",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/straight_3",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/straight_4",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/tall_straight_1",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/tall_straight_2",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/tall_straight_3",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/tall_straight_4",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/tall_straight_5",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/tall_straight_6",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/tall_straight_7",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/loop_1",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/loop_2",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 5,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/o_1",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 5,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/o_2",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/pi_1",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/pi_2",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/collapsed_straight_1",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/collapsed_straight_2",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/collapsed_straight_3",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/long_hallway_1",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/long_hallway_2",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/long_parkour_1",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/long_parkour_2",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/stair_parkour_1",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/stair_parkour_2",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/tall_parkour_1",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/lectern_trap",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		},
+        {
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+                "location": "dstruct:overgrown_dungeon/hallway/shrine_trap",
+				"processors": "dstruct:overgrown_dungeon_walls"
+			}
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "placement": {
+    "type": "minecraft:concentric_rings",
+    "count": 128,
+    "distance": 32,
+    "preferred_biomes": "#dstruct:conquered_stronghold_spawn_biomes",
+    "salt": 483248,
+    "spread": 3,
+    "terrain_adaptation": "beard_box"
+  },
+  "structures": [
+    {
+      "structure": "dstruct:conquered_stronghold",
+      "weight": 1
+    }
+  ]
+}

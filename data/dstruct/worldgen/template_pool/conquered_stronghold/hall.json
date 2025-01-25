@@ -1,0 +1,194 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/1",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/2",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/3",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/4",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/5",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/6",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/7",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/9",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/11",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/13",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/14",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/15",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/17",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/18",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/19",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/25",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 2
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/thin_right/1r",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 3
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/thin_right/2r",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 3
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/thin_right/3r",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 3
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/thin_right/8r",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 3
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:conquered_stronghold/conquered/thin_left/9l",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 3
+      }
+    ]
+  }

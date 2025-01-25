@@ -1,0 +1,16 @@
+{
+	"structures": [
+		{
+			"structure": "str:cobblestone_ruin",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 1282504533,
+		"frequency": 0.6,
+		"spread_type": "triangular",
+		"spacing": 32,
+		"separation": 18
+	}
+}

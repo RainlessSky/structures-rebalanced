@@ -1,0 +1,30 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 195839445,
+    "separation": 20,
+    "spacing": 60
+  },
+  "structures": [
+    {
+      "structure": "minecraft:abandoned_village_plains",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:abandoned_village_desert",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:abandoned_village_savanna",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:abandoned_village_snowy",
+      "weight": 1
+    },
+    {
+      "structure": "minecraft:abandoned_village_taiga",
+      "weight": 1
+    }
+  ]
+}

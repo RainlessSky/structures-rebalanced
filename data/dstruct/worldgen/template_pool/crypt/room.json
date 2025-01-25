@@ -1,0 +1,77 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:crypt/rooms/01",
+          "processors": "minecraft:mossify_20_percent",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:crypt/rooms/02",
+          "processors": "minecraft:mossify_20_percent",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:crypt/rooms/03",
+          "processors": "minecraft:mossify_20_percent",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:crypt/rooms/04",
+          "processors": "minecraft:mossify_20_percent",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:crypt/rooms/05",
+          "processors": "minecraft:mossify_20_percent",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:crypt/rooms/06",
+          "processors": "minecraft:mossify_20_percent",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:crypt/rooms/07",
+          "processors": "minecraft:mossify_20_percent",
+          "projection": "rigid"
+        },
+        "weight": 1
+      },
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "dstruct:crypt/rooms/08",
+          "processors": "minecraft:mossify_20_percent",
+          "projection": "rigid"
+        },
+        "weight": 1
+      }
+    ]
+  }

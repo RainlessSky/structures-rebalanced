@@ -1,0 +1,15 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 156789645,
+    "separation": 30,
+    "spacing": 40,
+    "terrain_adaptation": "beard_thin"
+  },
+  "structures": [
+    {
+      "structure": "dstruct:mud_ruin",
+      "weight": 1
+    }
+  ]
+}
