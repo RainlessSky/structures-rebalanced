@@ -59,7 +59,7 @@ jobs:
           datapack/*.zip
 
         # Only include this section if you wish to publish your assets to Modrinth.
-        modrinth-id: jPZFRfGa
+        modrinth-id: OUUpCD5M
         modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
 
         # Only include this section if you wish to publish your assets to GitHub.
