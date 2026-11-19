@@ -3,7 +3,7 @@
 Structures Rebalanced's goal is to remake and rebalance vanilla Minecraft structures in a way that feels familiar and new at the same time.
 
 ## Structures
-Structures Rebalanced adds 4 new structures to various biomes and refreshes one. Below is a list of all structures, a short description of the structure, and what biomes it spawns in (if applicable).
+Structures Rebalanced adds 4 new structures to various biomes, refreshes one, and rebalances one. Below is a list of all new structures, with a short description, and what biomes it spawns in (if applicable).
 
 <details>
 <summary>THIS SPOILS THE DATAPACK</summary>
@@ -54,6 +54,13 @@ Valid spawn biomes:
   - Sparse Jungle
 </details>
 
+</details>
+
+### Refreshes and Rebalances
+Structures Rebalanced refreshes one structure, and rebalances one structure. It also changes the loot tables of several structures.
+<details>
+<summary>Refreshes (SPOILERS)</summary>
+
 ### Pillager Outpost (refresh)
 Pillager Outpost is now a floor taller & contains furniture. A special surprise stands at the highest floor. This replaces the vanilla Pillager Outpost.
 <details>
@@ -66,6 +73,43 @@ Pillager Outpost is now a floor taller & contains furniture. A special surprise 
 </details>
 
 <details>
+<summary>Rebalances (SPOILERS)</summary>
+
+### Villages (rebalance)
+Villages now generate less frequently. This change was made because villages are very valuable and you can often see 3-4 villages in a 512x512 area.
+
+</details>
+
+<details>
+<summary>Loot table changes (SPOILERS)</summary>
+
+### Loot changes
+- Rebalanced the shipwreck loot tables
+  - Reduced high-value mineral rates
+  - Coast armor trim is no longer contained in shipwrecks; see next change
+- Rebalanced the buried treasure loot table
+  - Coast armor trim can now be contained in buried treasure
+  - Heart of the Sea is no longer contained in buried treasure; see next change
+- Elder Guardians now have a 25% chance of dropping a Heart of the Sea
+- Explorer maps for Nether Fortress, Bastion Remnant, and Ancient City have been added
+  - Nether Fortress Explorer Map: piglin bartering
+  - Bastion Remnant Explorer Map: piglin bartering
+  - Ancient City Explorer Map: Villager Cartographer chests & Stronghold library chests
+- All equipment found in loot now generates missing some durability
+- Changed leatherworker's village house loot table
+  - Saddles are more common
+  - Rabbit Hide can now be generated
+- Edited both Jungle Temple loot tables
+  - Dispensers in the structure now can contain Poison and Weakness tipped arrows
+  - Chest loot slightly adjusted
+- Fishing loot table type odds have been adjusted
+- "junk" fishing loot table has had several new additions
+  - All types of saplings (including Azaleas and mushrooms!) can now be fished up in their respective biomes
+  - Added Seagrass, Kelp, and Gold Nugget
+
+</details>
+
+<details>
 <summary>KNOWN ISSUES</summary>
 
 None at the moment
@@ -73,7 +117,7 @@ None at the moment
 </details>
 
 ## Pre-1.0 description
-Structures Rebalanced has recently radically changed goals. Instead of focusing on new structures to fill up the world with *stuff*, it will now focus on actually *rebalancing* and refreshing the structures that already in Minecraft. Because of this, several structures that don't align with the new goals were removed. That includes the Desert Tomb, Mud Ruin, Conquered Stronghold, Big Mushroom, and Badlands Trading Post. These are also some of the largest and most complex structures originally in Structures Rebalanced, which would take a LOT of time to fully update after 7+ new major Minecraft versions have released. 
+Structures Rebalanced has recently radically changed goals. Instead of focusing on new structures to fill up the world with *stuff*, it will now focus on actually *rebalancing* and refreshing the structures that already in Minecraft. Because of this, several structures that don't align with the new goals were removed. That includes the Desert Tomb, Mud Ruin, Conquered Stronghold, Big Mushroom, and Badlands Trading Post. These are also some of the largest and most complex structures originally in Structures Rebalanced, which would take a LOT of time to fully update after 7+ new major Minecraft versions have released.
 
 <details>
 <summary>Pre-1.0 description</summary>
