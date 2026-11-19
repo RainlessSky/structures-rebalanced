@@ -9,10 +9,10 @@ Structures Rebalanced adds 4 new structures to various biomes, refreshes one, an
 <summary>THIS SPOILS THE DATAPACK</summary>
 
 ### Surface Mineshaft
-A new, detailed mineshaft with an entry from the surface. Features plenty of spawners.
+An ornate mineshaft connected to the surface. Contains plenty of regular spawners.
 <details><summary>Details</summary>
 
-![A surface mineshaft entrance on the surface.](https://cdn.modrinth.com/data/OUUpCD5M/images/8d60a173202c7624c896b4e6732d5d9ea44e83e4.png)
+![A Surface Mineshaft entrance on the surface.](https://cdn.modrinth.com/data/OUUpCD5M/images/8d60a173202c7624c896b4e6732d5d9ea44e83e4.png)
 
 Valid spawn biomes:
 - Plains
@@ -25,7 +25,7 @@ Valid spawn biomes:
 </details>
 
 ### Crypt
-A vanilla-esque 5 room dungeon with pots & chests.
+A fancier 5-room dungeon with chests and decorated pots.
 <details>
 <summary>Valid spawn biomes</summary>
 
@@ -33,7 +33,7 @@ A vanilla-esque 5 room dungeon with pots & chests.
 </details>
 
 ### Deepslate/Sculk Dungeon
-Similar to a vanilla dungeon, but specialized for the deepslate layer. There is a sculk variant for the Deep Dark.
+A larger and taller dungeon built for the deepslate layer. There's a sculk infested variant for the Deep Dark too.
 <details>
 <summary>Valid spawn biomes</summary>
 
@@ -41,17 +41,14 @@ Similar to a vanilla dungeon, but specialized for the deepslate layer. There is 
 </details>
 
 ### Overgrown Dungeon
-Extremely mossy corridors with plenty of traps.
+Densely overgrown dungeon-crawler-like maze of corridors, rooms, and poison.
 <details>
 <summary>Details</summary>
 
-![A room in an overgrown dungeon](https://cdn.modrinth.com/data/OUUpCD5M/images/981e27ecdab4493d3bb0f3f1ca27a033d453409b.png)
+![The treasure room of an Overgrown Dungeon](https://cdn.modrinth.com/data/OUUpCD5M/images/981e27ecdab4493d3bb0f3f1ca27a033d453409b.png)
   
 Valid spawn biomes:
 - All jungle biomes
-  - Jungle
-  - Bamboo Jungle
-  - Sparse Jungle
 </details>
 
 </details>
@@ -61,8 +58,8 @@ Structures Rebalanced refreshes one structure, and rebalances one structure. It 
 <details>
 <summary>Refreshes (SPOILERS)</summary>
 
-### Pillager Outpost (refresh)
-Pillager Outpost is now a floor taller & contains furniture. A special surprise stands at the highest floor. This replaces the vanilla Pillager Outpost.
+### Pillager Outpost
+The Pillager Outpost is now a floor taller and contains furniture. A special surprise stands at the highest floor. This replaces the vanilla Pillager Outpost.
 <details>
  <summary>Details</summary>
 
@@ -75,7 +72,7 @@ Pillager Outpost is now a floor taller & contains furniture. A special surprise 
 <details>
 <summary>Rebalances (SPOILERS)</summary>
 
-### Villages (rebalance)
+### Villages
 Villages now generate less frequently. This change was made because villages are very valuable and you can often see 3-4 villages in a 512x512 area.
 
 </details>
@@ -83,7 +80,6 @@ Villages now generate less frequently. This change was made because villages are
 <details>
 <summary>Loot table changes (SPOILERS)</summary>
 
-### Loot changes
 - Rebalanced the shipwreck loot tables
   - Reduced high-value mineral rates
   - Coast armor trim is no longer contained in shipwrecks; see next change
@@ -108,12 +104,12 @@ Villages now generate less frequently. This change was made because villages are
 <details>
 <summary>KNOWN ISSUES</summary>
 
-None at the moment
+None known at the moment
 
 </details>
 
 ## Pre-1.0 description
-Structures Rebalanced has recently radically changed goals. Instead of focusing on new structures to fill up the world with *stuff*, it will now focus on actually *rebalancing* and refreshing the structures that already in Minecraft. Because of this, several structures that don't align with the new goals were removed. That includes the Desert Tomb, Mud Ruin, Conquered Stronghold, Big Mushroom, and Badlands Trading Post. These are also some of the largest and most complex structures originally in Structures Rebalanced, which would take a LOT of time to fully update after 7+ new major Minecraft versions have released.
+Structures Rebalanced has recently radically changed goals. Instead of focusing on new structures to fill up the world with *stuff*, it will now focus on actually *rebalancing* and refreshing the structures that already exist in Minecraft. Because of this, several structures that don't align with the new goals were removed. That includes the Desert Tomb, Mud Ruin, Conquered Stronghold, Big Mushroom, and Badlands Trading Post. These are also some of the largest and most complex structures originally in Structures Rebalanced, which would take a LOT of time to fully update after 7+ new major Minecraft versions have released.
 
 <details>
 <summary>Pre-1.0 description</summary>
