@@ -2,19 +2,17 @@
 ![The Minecraft Rebalanced collection sees Minecraft survival more as a survival game, and less as a free sandbox.](https://cdn.modrinth.com/data/jPZFRfGa/images/44d72a4d0341105299fc1f22b4e17a924eec18bd.png)
 Structures Rebalanced's goal is to remake and rebalance vanilla Minecraft structures in a way that feels familiar and new at the same time.
 
-## Structures
+## New Structures
 Structures Rebalanced adds 4 new structures to various biomes, refreshes one, and rebalances one. Below is a list of all new structures, with a short description, and what biomes it spawns in (if applicable).
 
 <details>
 <summary>THIS SPOILS THE DATAPACK</summary>
 
-### Surface Mineshaft
+<details>
+<summary>Surface Mineshaft</summary>
 An ornate mineshaft connected to the surface. Contains plenty of regular spawners.
-<details><summary>Details</summary>
 
-![A Surface Mineshaft entrance on the surface.](https://cdn.modrinth.com/data/OUUpCD5M/images/8d60a173202c7624c896b4e6732d5d9ea44e83e4.png)
-
-Valid spawn biomes:
+### Valid spawn biomes
 - Plains
 - Forest
 - Flower Forest
@@ -22,49 +20,48 @@ Valid spawn biomes:
 - Taiga
 - Old Growth Spruce Taiga
 - Savanna
+
+![A Surface Mineshaft entrance on the surface.](https://cdn.modrinth.com/data/OUUpCD5M/images/8d60a173202c7624c896b4e6732d5d9ea44e83e4.png)
 </details>
 
-### Crypt
-A fancier 5-room dungeon with chests and decorated pots.
 <details>
-<summary>Valid spawn biomes</summary>
+<summary>Crypt</summary>
+A fancier 5-room dungeon with chests and decorated pots.
 
+### Valid spawn biomes
 - All overworld biomes apart from Deep Dark
 </details>
 
-### Deepslate/Sculk Dungeon
-A larger and taller dungeon built for the deepslate layer. There's a sculk infested variant for the Deep Dark too.
 <details>
-<summary>Valid spawn biomes</summary>
+<summary>Deepslate/Sculk Dungeon</summary>
+A larger and taller dungeon built for the deepslate layer. There's a sculk infested variant for the Deep Dark too.
 
+### Valid spawn biomes
 - All overworld biomes
 </details>
 
-### Overgrown Dungeon
-Densely overgrown dungeon-crawler-like maze of corridors, rooms, and poison.
 <details>
-<summary>Details</summary>
+<summary>Overgrown Dungeon</summary>
+Densely overgrown dungeon-crawler-like maze of corridors, rooms, and poison.
+
+### Valid spawn biomes
+- All jungle biomes
 
 ![The treasure room of an Overgrown Dungeon](https://cdn.modrinth.com/data/OUUpCD5M/images/981e27ecdab4493d3bb0f3f1ca27a033d453409b.png)
+</details>
   
-Valid spawn biomes:
-- All jungle biomes
 </details>
 
-</details>
-
-### Refreshes and Rebalances
+## Refreshes and Rebalances
 Structures Rebalanced refreshes one structure, and rebalances one structure. It also changes the loot tables of several structures.
 <details>
 <summary>Refreshes (SPOILERS)</summary>
 
-### Pillager Outpost
-The Pillager Outpost is now a floor taller and contains furniture. A special surprise stands at the highest floor. This replaces the vanilla Pillager Outpost.
 <details>
- <summary>Details</summary>
+<summary>Pillager Outpost</summary>
+The Pillager Outpost is now a floor taller and contains furniture. A special surprise stands at the highest floor. This replaces the vanilla Pillager Outpost.
 
 ![A refreshed Pillager Outpost in a desert](https://cdn.modrinth.com/data/OUUpCD5M/images/f5a8b2de8a79341f6a71ab3cade61343745c304e.png)
-  
 </details>
 
 </details>
@@ -72,8 +69,10 @@ The Pillager Outpost is now a floor taller and contains furniture. A special sur
 <details>
 <summary>Rebalances (SPOILERS)</summary>
 
-### Villages
+<details>
+<summary>Villages</summary>
 Villages now generate less frequently. This change was made because villages are very valuable and you can often see 3-4 villages in a 512x512 area.
+</details>
 
 </details>
 
