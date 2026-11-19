@@ -1,0 +1,14 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "str:surface_mineshaft/entry/entry_lower",
+        "processors": "str:surface_mineshaft/paths_and_shell",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ]
+}

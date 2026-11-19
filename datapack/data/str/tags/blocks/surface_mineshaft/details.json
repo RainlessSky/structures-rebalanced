@@ -1,0 +1,32 @@
+{
+    "values": [
+        "minecraft:blast_furnace",
+        "minecraft:brown_bed",
+        "minecraft:campfire",
+        "minecraft:cauldron",
+        "minecraft:chain",
+        "minecraft:composter",
+        "minecraft:coal_block",
+        "minecraft:cobblestone_wall",
+        "minecraft:coal_ore",
+        "minecraft:cobweb",
+        "minecraft:cracked_stone_bricks",
+        "minecraft:emerald_ore",
+        "minecraft:gravel",
+        "minecraft:grindstone",
+        "minecraft:iron_ore",
+        "minecraft:lantern",
+        "minecraft:light_gray_bed",
+        "minecraft:light_gray_wall_banner",
+        "minecraft:oak_fence",
+        "minecraft:smooth_stone_slab",
+        "minecraft:spawner",
+        "minecraft:spruce_trapdoor",
+        "minecraft:stonecutter",
+        "minecraft:stone_slab",
+        "minecraft:stone_stairs",
+        "minecraft:stripped_oak_log",
+        "minecraft:suspicious_gravel",
+        "minecraft:wall_torch"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#str:overgrown_dungeon_spawn_biomes",
+  "step": "surface_structures",
+  "project_start_to_heightmap": "MOTION_BLOCKING_NO_LEAVES",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none",
+  "start_pool": "str:overgrown_dungeon/entry/upper",
+  "start_height": {
+    "absolute": 0
+    },
+  "size": 14,
+  "max_distance_from_center": 64,
+  "liquid_settings": "ignore_waterlogging",
+  "use_expansion_hack": false,
+  "pool_aliases": [
+    {
+      "type": "minecraft:direct",
+      "alias": "dstruct:overgrown_dungeon/hallway",
+      "target": "str:overgrown_dungeon/hallway"
+    }
+  ]
+}

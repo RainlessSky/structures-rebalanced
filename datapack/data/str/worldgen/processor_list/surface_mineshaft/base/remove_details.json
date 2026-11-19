@@ -1,0 +1,38 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:air"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "str:surface_mineshaft/details"
+          },
+          "output_state": {
+            "id": "minecraft:air"
+          }
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:water"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "str:surface_mineshaft/details"
+          },
+          "output_state": {
+            "id": "minecraft:water",
+            "properties": {
+              "level": "0"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

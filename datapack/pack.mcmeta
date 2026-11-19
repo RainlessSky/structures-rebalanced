@@ -1,10 +1,14 @@
 {
-	"pack": {
-		"pack_format": 48,
-		"supported_formats": {
-			"min_inclusive": 46,
-			"max_inclusive": 48
-		},
-		"description": "§7MC 1.21 §8•§7 By RainlessSky"
-	}
+  "pack": {
+    "pack_format": 121,
+    "min_format": [
+      121,
+      0
+    ],
+    "max_format": [
+      121,
+      0
+    ],
+    "description": "§7MC 26.3 §8•§7 By RainlessSky"
+  }
 }
