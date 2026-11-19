@@ -73,7 +73,7 @@ None at the moment
 </details>
 
 ## Pre-1.0 description
-Structures Rebalanced has recently radically changed goals. Instead of focusing on new structures to fill up the world with *stuff*, it will now focus on actually *rebalancing* and refreshing the structures that already in Minecraft. Because of this, several structures that don't align with the new goals were removed. That includes the Desert Tomb, Mud Ruin, Conquered Stronghold, and Big Mushroom. These are also some of the largest and most complex structures originally in Structures Rebalanced, which would take a LOT of time to fully update after 7+ new major Minecraft versions have released. 
+Structures Rebalanced has recently radically changed goals. Instead of focusing on new structures to fill up the world with *stuff*, it will now focus on actually *rebalancing* and refreshing the structures that already in Minecraft. Because of this, several structures that don't align with the new goals were removed. That includes the Desert Tomb, Mud Ruin, Conquered Stronghold, Big Mushroom, and Badlands Trading Post. These are also some of the largest and most complex structures originally in Structures Rebalanced, which would take a LOT of time to fully update after 7+ new major Minecraft versions have released. 
 
 <details>
 <summary>Pre-1.0 description</summary>
