@@ -102,10 +102,6 @@ Villages now generate less frequently. This change was made because villages are
 - Edited both Jungle Temple loot tables
   - Dispensers in the structure now can contain Poison and Weakness tipped arrows
   - Chest loot slightly adjusted
-- Fishing loot table type odds have been adjusted
-- "junk" fishing loot table has had several new additions
-  - All types of saplings (including Azaleas and mushrooms!) can now be fished up in their respective biomes
-  - Added Seagrass, Kelp, and Gold Nugget
 
 </details>
 
