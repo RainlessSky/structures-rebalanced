@@ -1,5 +1,82 @@
 [!["Minecraft Rebalanced" Collection by RainlessSky](https://img.shields.io/badge/Minecraft%20Rebalanced-2A2B2F?style=flat-square&logo=modrinth&label=part%20of&labelColor=222329)](https://modrinth.com/collection/rWTOiG2z)
 ![The Minecraft Rebalanced collection sees Minecraft survival more as a survival game, and less as a free sandbox.](https://cdn.modrinth.com/data/jPZFRfGa/images/44d72a4d0341105299fc1f22b4e17a924eec18bd.png)
+Structures Rebalanced's goal is to remake and rebalance vanilla Minecraft structures in a way that feels familiar and new at the same time.
+
+## Structures
+Structures Rebalanced adds 4 new structures to various biomes and refreshes one. Below is a list of all structures, a short description of the structure, and what biomes it spawns in (if applicable).
+
+<details>
+<summary>THIS SPOILS THE DATAPACK</summary>
+
+### Surface Mineshaft
+A new, detailed mineshaft with an entry from the surface. Features plenty of spawners.
+<details><summary>Details</summary>
+
+![A surface mineshaft entrance on the surface.](https://cdn.modrinth.com/data/OUUpCD5M/images/8d60a173202c7624c896b4e6732d5d9ea44e83e4.png)
+
+Valid spawn biomes:
+- Plains
+- Forest
+- Flower Forest
+- Birch Forest
+- Taiga
+- Old Growth Spruce Taiga
+- Savanna
+</details>
+
+### Crypt
+A vanilla-esque 5 room dungeon with pots & chests.
+<details>
+<summary>Valid spawn biomes</summary>
+
+- All overworld biomes apart from Deep Dark
+</details>
+
+### Deepslate/Sculk Dungeon
+Similar to a vanilla dungeon, but specialized for the deepslate layer. There is a sculk variant for the Deep Dark.
+<details>
+<summary>Valid spawn biomes</summary>
+
+- All overworld biomes
+</details>
+
+### Overgrown Dungeon
+Extremely mossy corridors with plenty of traps.
+<details>
+<summary>Details</summary>
+
+![A room in an overgrown dungeon](https://cdn.modrinth.com/data/OUUpCD5M/images/981e27ecdab4493d3bb0f3f1ca27a033d453409b.png)
+  
+Valid spawn biomes:
+- All jungle biomes
+  - Jungle
+  - Bamboo Jungle
+  - Sparse Jungle
+</details>
+
+### Pillager Outpost (refresh)
+Pillager Outpost is now a floor taller & contains furniture. A special surprise stands at the highest floor. This replaces the vanilla Pillager Outpost.
+<details>
+ <summary>Details</summary>
+
+![A refreshed Pillager Outpost in a desert](https://cdn.modrinth.com/data/OUUpCD5M/images/f5a8b2de8a79341f6a71ab3cade61343745c304e.png)
+  
+</details>
+
+</details>
+
+<details>
+<summary>KNOWN ISSUES</summary>
+
+None at the moment
+
+</details>
+
+## Pre-1.0 description
+Structures Rebalanced has recently radically changed goals. Instead of focusing on new structures to fill up the world with *stuff*, it will now focus on actually *rebalancing* and refreshing the structures that already in Minecraft. Because of this, several structures that don't align with the new goals were removed. That includes the Desert Tomb, Mud Ruin, Conquered Stronghold, and Big Mushroom. These are also some of the largest and most complex structures originally in Structures Rebalanced, which would take a LOT of time to fully update after 7+ new major Minecraft versions have released. 
+
+<details>
+<summary>Pre-1.0 description</summary>
 Structures Rebalanced's goal is to increase the variety of structures, filling up empty biomes and refreshing existing ones. **This is incomplete, anything is subject to change.**
 
 Structures will only generate in chunks generated when the data pack is enabled.
