@@ -1,0 +1,10 @@
+{
+    "values": [
+        "#minecraft:logs",
+        "#minecraft:wooden_slabs",
+        "#minecraft:wooden_fences",
+        "#minecraft:fence_gates",
+        "#minecraft:wooden_stairs",
+        "#str:surface_mineshaft/details"
+    ]
+}

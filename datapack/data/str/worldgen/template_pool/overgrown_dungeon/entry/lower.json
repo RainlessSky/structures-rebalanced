@@ -1,14 +1,14 @@
 {
-  "fallback": "minecraft:empty",
   "elements": [
     {
-      "weight": 1,
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "projection": "rigid",
-                "location": "str:overgrown_dungeon/entry/lower",
-        "processors": "str:overgrown_dungeon_walls"
-      }
+        "location": "str:overgrown_dungeon/entry/lower",
+        "processors": "str:overgrown_dungeon_walls",
+        "projection": "rigid"
+      },
+      "weight": 1
     }
-  ]
+  ],
+  "fallback": "minecraft:empty"
 }

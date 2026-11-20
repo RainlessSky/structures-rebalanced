@@ -1,0 +1,32 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "str:surface_mineshaft/hallway/terminator_1",
+        "processors": "str:surface_mineshaft/new",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "str:surface_mineshaft/hallway/terminator_2",
+        "processors": "str:surface_mineshaft/new",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "str:surface_mineshaft/hallway/terminator_3",
+        "processors": "str:surface_mineshaft/new",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "minecraft:empty"
+}

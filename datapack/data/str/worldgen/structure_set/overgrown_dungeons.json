@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 432984929,
+    "separation": 15,
+    "spacing": 25
+  },
+  "structures": [
+    {
+      "structure": "str:overgrown_dungeon",
+      "weight": 1
+    }
+  ]
+}

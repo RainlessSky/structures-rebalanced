@@ -1,0 +1,87 @@
+{
+  "processors": [
+    {
+      "processor_type": "minecraft:jigsaw_replacement"
+    },
+    {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:not",
+            "rule": {
+              "predicate_type": "minecraft:tag_match",
+              "tag": "minecraft:blocks_fluid_flow"
+            }
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "str:surface_mineshaft/props"
+          },
+          "output_state": "minecraft:structure_void"
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:base_stone_overworld"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:any_of",
+            "rules": [
+              {
+                "predicate_type": "minecraft:block_match",
+                "block": "minecraft:stone_stairs"
+              },
+              {
+                "predicate_type": "minecraft:block_match",
+                "block": "minecraft:stone_slab"
+              }
+            ]
+          },
+          "output_state": "minecraft:structure_void"
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:not",
+            "rule": {
+              "predicate_type": "minecraft:tag_match",
+              "tag": "minecraft:blocks_motion"
+            }
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:wet_sponge"
+          },
+          "output_state": "minecraft:oak_planks"
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:wet_sponge"
+          },
+          "output_state": "minecraft:structure_void"
+        },
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "str:surface_mineshaft/fluids"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:tag_match",
+            "tag": "minecraft:air"
+          },
+          "output_state": "minecraft:structure_void"
+        }
+      ]
+    },
+    {
+      "processor_type": "minecraft:block_ignore",
+      "blocks": [
+        "minecraft:structure_void"
+      ]
+    }
+  ]
+}

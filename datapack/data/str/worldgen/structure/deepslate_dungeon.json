@@ -1,21 +1,33 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#str:deepslate_dungeon_spawn_biomes",
-  "step": "underground_structures",
-  "spawn_overrides": {},
-  "terrain_adaptation": "none",
-  "start_pool": "str:deepslate_dungeon",
+  "biomes": "#str:has_structure/deepslate_dungeon",
+  "max_distance_from_center": 32,
   "size": 1,
+  "spawn_overrides": {},
   "start_height": {
-    "type": "minecraft:uniform",
+    "max_inclusive": {
+      "absolute": -10
+    },
     "min_inclusive": {
       "absolute": -50
     },
-    "max_inclusive": {
-      "absolute": -10
-    }
+    "type": "minecraft:uniform"
   },
-  "max_distance_from_center": 32,
-  "liquid_settings": "apply_waterlogging",
+  "start_pool": {
+    "fallback": "minecraft:empty",
+    "elements": [
+      {
+        "element": {
+          "element_type": "minecraft:single_pool_element",
+          "location": "str:deepslate_dungeon/pure",
+          "processors": "minecraft:empty",
+          "projection": "rigid"
+        },
+        "weight": 1
+      }
+    ]
+  },
+  "step": "underground_structures",
+  "terrain_adaptation": "none",
   "use_expansion_hack": false
 }
