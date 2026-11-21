@@ -20,81 +20,6 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:stone_sword",
-          "weight": 1,
-          "modifier": [
-            {
-              "type": "minecraft:set_damage",
-              "damage": {
-                "type": "minecraft:uniform",
-                "min": 0.6,
-                "max": 0.85
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:stone_pickaxe",
-          "weight": 1,
-          "modifier": [
-            {
-              "type": "minecraft:set_damage",
-              "damage": {
-                "type": "minecraft:uniform",
-                "min": 0.6,
-                "max": 0.85
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:stone_axe",
-          "weight": 1,
-          "modifier": [
-            {
-              "type": "minecraft:set_damage",
-              "damage": {
-                "type": "minecraft:uniform",
-                "min": 0.6,
-                "max": 0.85
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:stone_shovel",
-          "weight": 1,
-          "modifier": [
-            {
-              "type": "minecraft:set_damage",
-              "damage": {
-                "type": "minecraft:uniform",
-                "min": 0.6,
-                "max": 0.85
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:stone_hoe",
-          "weight": 1,
-          "modifier": [
-            {
-              "type": "minecraft:set_damage",
-              "damage": {
-                "type": "minecraft:uniform",
-                "min": 0.6,
-                "max": 0.85
-              }
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
           "name": "minecraft:flint",
           "weight": 2,
           "modifier": [
@@ -140,8 +65,18 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:spider_eye",
-          "weight": 2
+          "name": "minecraft:slime_ball",
+          "weight": 2,
+          "modifier": [
+            {
+              "type": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 2,
+                "max": 4
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -165,11 +100,7 @@
           "modifier": [
             {
               "type": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 1,
-                "max": 5
-              }
+              "count": 4
             }
           ]
         },
@@ -198,10 +129,20 @@
               "count": {
                 "type": "minecraft:uniform",
                 "min": 1,
-                "max": 3
+                "max": 6
               }
             }
           ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:amethyst_shard",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:emerald",
+          "weight": 1
         },
         {
           "type": "minecraft:item",
@@ -220,12 +161,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:amethyst_shard",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:emerald",
+          "name": "minecraft:rabbit_foot",
           "weight": 1
         },
         {
@@ -268,7 +204,7 @@
               "count": {
                 "type": "minecraft:uniform",
                 "min": 1,
-                "max": 2
+                "max": 4
               }
             }
           ]
@@ -281,11 +217,6 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:lead",
-          "weight": 1
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:rabbit_foot",
           "weight": 1
         }
       ]
